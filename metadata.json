@@ -1,0 +1,6 @@
+{
+  "name": "MEJUNJE",
+  "description": "Boutique olfativa contemporánea de Buenos Aires. Velas botánicas, difusores, home sprays y blends de autor con espíritu de atelier y estética editorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

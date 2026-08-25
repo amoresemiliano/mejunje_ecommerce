@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Candle / Flask Silhouette Base in Atelier Deep Green -->
+    <path
+        android:fillColor="#58604E"
+        android:pathData="M39,46 H69 V74 C69,77.3 66.3,80 63,80 H45 C41.7,80 39,77.3 39,74 Z" />
+    
+    <!-- Amber Liquid / Glow inside candle -->
+    <path
+        android:fillColor="#D2A14F"
+        android:pathData="M43,58 H65 V73 C65,75.2 63.2,77 61,77 H47 C44.8,77 43,75.2 43,73 Z" />
+
+    <!-- Typewriter 'M' monogram on the bottle -->
+    <path
+        android:fillColor="#FCFAF7"
+        android:pathData="M49,63 H51.2 L54,68.5 L56.8,63 H59 V73 H57.5 V65.8 L54.8,71 H53.2 L50.5,65.8 V73 H49 Z" />
+
+    <!-- Flame / Amber Drop -->
+    <path
+        android:fillColor="#D2A14F"
+        android:pathData="M54,28 C54,28 59,35 59,38 C59,40.8 56.8,43 54,43 C51.2,43 49,40.8 49,38 C49,35 54,28 54,28 Z" />
+
+    <!-- Botanical Leaf Accent -->
+    <path
+        android:fillColor="#7B8872"
+        android:pathData="M58,34 C63,33 66,30 67,26 C63,26 60,29 58,34 Z" />
+    <path
+        android:fillColor="#A4AF96"
+        android:pathData="M50,34 C45,33 42,30 41,26 C45,26 48,29 50,34 Z" />
+</vector>
