@@ -412,7 +412,7 @@ export const BUNDLES: BundleItem[] = [
     id: "bundle_noche",
     slug: "ritual-de-noche",
     title: "RITUAL DE NOCHE",
-    subtitle = "Para preparar el cuerpo y la mente antes de soñar",
+    subtitle: "Para preparar el cuerpo y la mente antes de soñar",
     productsIncluded: [
       "Vela Lavanda & Manzanilla (250g)",
       "Home Spray Neroli & Lino (250ml)",
